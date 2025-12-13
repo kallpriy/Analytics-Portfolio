@@ -49,6 +49,21 @@ The focus is on identifying when fraud occurs and prioritizing transactions that
 - Built dashboards that can be used daily to track fraud trends and risk levels
 
 
+## 📷 Dashboard Preview
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshots/ExecutiveDashboard.png" width="420"><br>
+      <strong>Executive Fraud Overview</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/FraudpatternDashboard.png" width="420"><br>
+      <strong>Fraud Pattern & Driver Analysis</strong>
+    </td>
+  </tr>
+</table>
+
 
 
 
