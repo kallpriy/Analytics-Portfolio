@@ -33,6 +33,14 @@ The focus is on identifying when fraud occurs and prioritizing transactions that
 - Anomaly score distribution Review
 - Checked which features differ most between fraud and non-fraud cases
 
+## Key Insights
+
+- Fraud accounts for only ~0.17% of total transactions, yet these cases consistently show much higher risk scores, confirming that risk-based monitoring is effective even in highly imbalanced data.
+- Fraud activity is concentrated during late-night and early-morning hours (approximately 12:00 AM – 5:00 AM), a period where transaction oversight is typically lower.
+- A small number of transactions classified as “Very High Risk” contribute a disproportionately large share of total fraud amount, making them the highest-priority cases for immediate review.
+- Fraudulent transactions follow clearly different behavior patterns compared to normal transactions, indicating that fraud is driven by identifiable transaction behavior rather than randomness.
+- Segmenting transactions by risk level significantly reduces analyst workload by narrowing investigations to a focused, high-impact subset of activity.
+
 ## Dashboards
 - Executive Fraud Overview
 - Fraud Pattern & Driver Analysis
