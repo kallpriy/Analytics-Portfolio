@@ -1,4 +1,4 @@
-# Marketplace Sales & Margin Analysis (April 2022)
+# Flipkart Sales & Margin Analysis (April 2022)
 
 ## 📌 Domain
 Ecommerce / FMCG Retail Analytics
