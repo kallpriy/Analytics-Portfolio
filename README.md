@@ -13,7 +13,7 @@ This repository showcases my end-to-end **Data Analytics projects** built using
 
 ---
 
-## Projects Overview
+## 📌 Projects Overview
 
 ### Power BI Projects By Domain - (7)
 - **BFSI** – Credit Card Fraud Detection Dashboard (1)
