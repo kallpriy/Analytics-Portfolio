@@ -63,4 +63,19 @@ This project analyzes Medicare beneficiary data to understand healthcare costs, 
 - Enabled focused analysis for cost control and care improvement
 
 ## Dashboard Preview
-Screenshots available in the `screenshots/` folder
+</table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshots/Executive Analysis.png" width="550"><br>
+      <strong>Executive Overview</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/ClinicalMetrics.png" width="550"><br>
+      <strong>ClinicalMetrics</strong>
+    </td>
+      <td align="center">
+      <img src="Screenshots/FinancialAnalysis.png" width="550"><br>
+      <strong>FinancialAnalysis</strong>
+  </tr>
+</table>
