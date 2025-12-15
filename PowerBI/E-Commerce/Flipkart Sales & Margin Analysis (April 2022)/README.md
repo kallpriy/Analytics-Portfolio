@@ -58,4 +58,15 @@ This project analyzes marketplace sales performance for a single month (April 20
 - Highlighted key products, brands, and cities driving sales
 
 ## Dashboard Preview
-Screenshots available in the `screenshots/` folder
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshots/Discount vs Margin Analysis.png" width="420"><br>
+      <strong>Executive Overview</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/Sales Overview.png" width="420"><br>
+      <strong>Sales Overview</strong>
+    </td>
+  </tr>
+</table>
