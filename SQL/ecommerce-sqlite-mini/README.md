@@ -94,6 +94,12 @@ This Project was developed to showcase:
 - Present insights clearly - the key expectation for a Data Analyst or Business intelligence role.
 
 This project demonstrates the ability to use SQL & power BI together to extract insights and communicate data clearly.
+---
+## Dashboard Preview
+
+<p align="center">
+  <img src="Assets/Screenshots/dashboard.png">
+</p>
 
 
 
