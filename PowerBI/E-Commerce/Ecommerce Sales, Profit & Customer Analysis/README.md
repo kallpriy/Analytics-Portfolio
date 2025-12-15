@@ -57,4 +57,17 @@ This project analyzes ecommerce sales data to track revenue growth, profitabilit
 - Enabled business-focused insights for sales and product decisions
 
 ## Dashboard Preview
-Screenshots available in the `screenshots/` folder
+    
+</table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshots/Executive Overview.png" width="420"><br>
+      <strong>Executive Overview</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/CustomerInsights.png" width="420"><br>
+      <strong>Customer Insights</strong>
+    </td>
+  </tr>
+</table>
