@@ -1,4 +1,4 @@
-# Sales Performance Dashboard (April 2020)
+# Sales Performance Dashboard 
 
 ## 📌 Domain
 Ecommerce / Retail Analytics
