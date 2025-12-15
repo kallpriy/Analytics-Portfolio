@@ -70,4 +70,19 @@ This dashboard analyzes ride-sharing performance across revenue, trip completion
 - Enabled data-backed decisions on pricing, supply, and incentives
 
 ## Dashboard Preview
-Screenshots available in the `screenshots/` folder
+</table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshots/Exceutive Analysis.png" width="550"><br>
+      <strong>Executive Overview</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/operational analysis.png" width="550"><br>
+      <strong>Operational Analysis</strong>
+    </td>
+      <td align="center">
+      <img src="Screenshots/Cancellations.png" width="550"><br>
+      <strong>Cancellations & Cx</strong>
+  </tr>
+</table>
