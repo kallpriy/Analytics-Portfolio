@@ -38,4 +38,9 @@ This dashboard provides a single-page view of ecommerce sales performance, focus
 - Data Modeling
 
 ## Dashboard Preview
-Screenshot available in the `screenshots/` folder
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Sales dashboard.png"width="620"><br>
+      <strong>Executive Overview</strong>
+  
