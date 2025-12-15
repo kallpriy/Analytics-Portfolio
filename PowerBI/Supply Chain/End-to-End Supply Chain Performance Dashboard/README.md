@@ -64,4 +64,19 @@ This project provides an end-to-end view of supply chain performance covering sa
 - Enabled data-driven prioritization across supply chain functions
 
 ## Dashboard Preview
-Screenshots available in the `screenshots/` folder
+</table>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="Screenshots/Executive Analysis.png" width="550"><br>
+      <strong>Executive Overview</strong>
+    </td>
+    <td align="center">
+      <img src="Screenshots/Logistics & OTIF.png" width="550"><br>
+      <strong>Logistics & OTIF Analysis</strong>
+    </td>
+      <td align="center">
+      <img src="Screenshots/Supplier & Procurement.png" width="550"><br>
+      <strong>Supplier & Procurement</strong>
+  </tr>
+</table>
