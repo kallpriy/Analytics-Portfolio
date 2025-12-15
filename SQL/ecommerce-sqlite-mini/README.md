@@ -16,23 +16,6 @@ It covers end-to-end steps from creating a small SQLite database and running ana
 
 ---
 
-# Project Structure
-
-ecommerce-sqlite-mini/
-├─ README.md        
-├─ sql/             ← All SQL scripts
-│  ├─ 01_schema.sql
-│  ├─ 02_seed_data.sql
-│  ├─ 03_views.sql
-│  ├─ 04_analytics.sql
-│  └─ 05_quality_checks.sql
-├─ assets/
-│  ├─ erd.png       ← ER diagram 
-│  └─ screenshots/
-│     └─ dashboard.png ← Power BI screenshot
-
----
-
 ## 🚀 How to Run
 
 1. **Set up SQLite database in DBeaver**
@@ -57,7 +40,7 @@ ecommerce-sqlite-mini/
 
 ## 📊 Dashboard
 !Power BI Dashboard
-The dashboard presents visuals derived directly from SQL outputs:
+The dashboard presents visuals derived directly from SQL outputs
 
 ### **Top KPIs**
 - **Return Rate:** 24.65%
@@ -111,6 +94,7 @@ This Project was developed to showcase:
 - Present insights clearly - the key expectation for a Data Analyst or Business intelligence role.
 
 This project demonstrates the ability to use SQL & power BI together to extract insights and communicate data clearly.
+
 
 
 
