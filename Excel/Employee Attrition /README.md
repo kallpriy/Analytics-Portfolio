@@ -77,3 +77,10 @@ Excel-based analysis to identify employee attrition drivers, high-risk segments,
 
 ## Use Case
 Supports HR teams in identifying early attrition risks and prioritizing retention actions.
+
+--
+## Dashboard Preview
+
+<p align="center">
+  <img src="Screenshots/HR Analytics Excel Dashboard.png">
+</p>
