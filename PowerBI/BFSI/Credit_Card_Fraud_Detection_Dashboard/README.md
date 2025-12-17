@@ -73,6 +73,10 @@ The focus is on identifying when fraud occurs and prioritizing transactions that
 </table>
 
 
+## PBIX Availability
+The PBIX file for this dashboard exceeds GitHub’s file size limits. 
+A PDF export and screenshots are provided for review. 
+The PBIX file can be shared upon request.
 
 
 
