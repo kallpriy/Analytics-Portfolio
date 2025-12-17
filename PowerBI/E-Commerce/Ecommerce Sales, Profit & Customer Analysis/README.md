@@ -71,3 +71,6 @@ This project analyzes ecommerce sales data to track revenue growth, profitabilit
     </td>
   </tr>
 </table>
+
+## PBIX Availability
+The PBIX file is provided in compressed (ZIP) format due to repository size constraints.
