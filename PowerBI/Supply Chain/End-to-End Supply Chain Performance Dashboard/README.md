@@ -80,3 +80,7 @@ This project provides an end-to-end view of supply chain performance covering sa
       <strong>Supplier & Procurement</strong>
   </tr>
 </table>
+
+
+## PBIX Availability
+The PBIX file is provided in compressed (ZIP) format due to repository size constraints.
