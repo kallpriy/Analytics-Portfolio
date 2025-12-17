@@ -86,3 +86,6 @@ This dashboard analyzes ride-sharing performance across revenue, trip completion
       <strong>Cancellations & Cx</strong>
   </tr>
 </table>
+
+## PBIX Availability
+The PBIX file is provided in compressed (ZIP) format due to repository size constraints.
