@@ -79,3 +79,8 @@ This project analyzes Medicare beneficiary data to understand healthcare costs, 
       <strong>FinancialAnalysis</strong>
   </tr>
 </table>
+
+## PBIX Availability
+The PBIX file for this dashboard exceeds GitHub’s file size limits. 
+A PDF export and screenshots are provided for review. 
+The PBIX file can be shared upon request.
