@@ -43,4 +43,7 @@ This dashboard provides a single-page view of ecommerce sales performance, focus
     <td align="center">
       <img src="Sales dashboard.png"width="620"><br>
       <strong>Executive Overview</strong>
-  
+
+  ## PBIX Availability
+The PBIX file is provided in compressed (ZIP) format due to repository size constraints.
+
