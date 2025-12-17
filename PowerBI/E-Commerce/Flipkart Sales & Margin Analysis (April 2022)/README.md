@@ -70,3 +70,9 @@ This project analyzes marketplace sales performance for a single month (April 20
     </td>
   </tr>
 </table>
+
+---
+## PBIX Availability
+The PBIX file for this dashboard exceeds GitHub’s file size limits. 
+A PDF export and screenshots are provided for review. 
+The PBIX file can be shared upon request.
