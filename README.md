@@ -41,6 +41,6 @@ This repository showcases my end-to-end **Data Analytics projects** built using
 ---
 
 ## Connect
-- LinkedIn: <add link>
+- LinkedIn: www.linkedin.com/in/priyanka-kalla
 - Email: priyanka.kalla.career@gmail.com
 
