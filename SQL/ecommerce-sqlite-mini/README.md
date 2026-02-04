@@ -89,8 +89,6 @@ This reflects the type of SQL-driven analytics expected in **Data Analyst / Busi
 
 ---
 
-## 📌 PBIX Availability
-The Power BI file is provided in compressed (ZIP) format due to repository size constraints.
 
 
 
