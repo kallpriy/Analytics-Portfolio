@@ -3,60 +3,77 @@
 ## 📌 Domain
 BFSI (Banking, Financial Services, and Insurance)
 
+---
+
 ## Overview
-To monitor credit card transactions and identify fraudulent patterns using KPIs and interactive visuals.
-The focus is on identifying when fraud occurs and prioritizing transactions that require immediate review.
+This project looks at credit card transaction data to understand how fraud behaves and how analysts can spot risky activity more efficiently.  
+Instead of treating all transactions the same, the dashboard focuses on **when fraud is more likely to happen** and **which transactions need immediate attention**, especially in a dataset where fraud cases are very rare.
+
+---
 
 ## Business Objective
-- Detect fraudulent transactions in a highly imbalanced dataset
-- Group transactions by risk level to simplify review
-- Help analysts focus on the most suspicious activity
+- Identify fraudulent transactions in a highly imbalanced dataset  
+- Group transactions by risk level to make reviews faster and more focused  
+- Help analysts concentrate on a small set of high-risk transactions instead of scanning all activity  
+
+---
 
 ## Dataset
-- Source: Kaggle – Credit Card Fraud Detection
-- Transactions: ~284,000
-- Fraud Rate: ~0.17%
-- Columns: PCA features (V1–V28), Time, Amount, Class
+- Source: Kaggle – Credit Card Fraud Detection  
+- Transactions: ~284,000  
+- Fraud Rate: ~0.17%  
+- Columns include PCA features (V1–V28), Time, Amount, and Class  
+
+---
 
 ## Key Metrics
-- Total Transactions
-- Fraud Transactions
-- Fraud Amount
-- Fraud Rate %
-- High-Risk Transaction Count
-- Average Anomaly Score
+- Total Transactions  
+- Fraud Transactions  
+- Fraud Rate (%)  
+- Fraud Amount  
+- High-Risk and Very-High-Risk Transaction Count  
+- Average Risk / Anomaly Score  
+
+---
 
 ## Analysis Performed
-- Compared fraud vs non-fraud transactions
-- Grouped transactions into risk bands (Low to Very High)
-- Time-based fraud analysis (Hour / Time-of-day)
-- Anomaly score distribution Review
-- Checked which features differ most between fraud and non-fraud cases
+- Compared patterns between fraud and non-fraud transactions  
+- Segmented transactions into risk bands (Low to Very High)  
+- Analyzed fraud trends by hour and time of day  
+- Reviewed anomaly score distributions to see how well fraud stands out  
+- Checked which features show noticeable differences for fraudulent activity  
+
+---
 
 ## Key Insights
+- Fraud makes up a very small portion of total transactions, but these cases consistently show much higher risk scores, making risk-based filtering effective even with heavily imbalanced data.  
+- Most fraud activity happens during late-night and early-morning hours (around 12:00 AM to 5:00 AM), when transaction monitoring is usually lighter.  
+- A small number of very high-risk transactions account for a large share of the total fraud amount, making them the most important cases to review first.  
+- Fraudulent transactions follow clear behavioral patterns rather than occurring randomly, which makes them easier to flag when the right indicators are tracked.  
+- Segmenting transactions by risk level helps reduce analyst effort by narrowing investigations to the most impactful cases.
 
-- Fraud accounts for only ~0.17% of total transactions, yet these cases consistently show much higher risk scores, confirming that risk-based monitoring is effective even in highly imbalanced data.
-- Fraud activity is concentrated during late-night and early-morning hours (approximately 12:00 AM – 5:00 AM), a period where transaction oversight is typically lower.
-- A small number of transactions classified as “Very High Risk” contribute a disproportionately large share of total fraud amount, making them the highest-priority cases for immediate review.
-- Fraudulent transactions follow clearly different behavior patterns compared to normal transactions, indicating that fraud is driven by identifiable transaction behavior rather than randomness.
-- Segmenting transactions by risk level significantly reduces analyst workload by narrowing investigations to a focused, high-impact subset of activity.
+---
 
 ## Dashboards
-- Executive Fraud Overview
-- Fraud Pattern & Driver Analysis
-- Transaction Monitoring & Investigation
+- Executive Fraud Overview  
+- Fraud Pattern & Driver Analysis  
+- Transaction Monitoring & Investigation  
 
-## Tools & Tech
-- Power BI (DAX, data modeling, drill-through)
-- SQL (aggregation & validation)
-- Excel (data checks)
+---
+
+## Tools & Technology
+- Power BI (DAX, data modeling, drill-through)  
+- SQL (aggregation and validation)  
+- Excel (data checks)  
+
+---
 
 ## Outcome
-- Identified the hours of the day and transaction patterns where fraud occurs most often
-- Prioritized suspicious transactions that should be reviewed first by analysts
-- Built dashboards that can be used daily to track fraud trends and risk levels
+- Highlighted time windows and transaction patterns where fraud is more likely to occur  
+- Helped prioritize which transactions should be reviewed first  
+- Created dashboards that can be used daily to track fraud trends and risk levels  
 
-
+---
 ## 📷 Dashboard Preview
 
 <table align="center">
@@ -72,7 +89,7 @@ The focus is on identifying when fraud occurs and prioritizing transactions that
   </tr>
 </table>
 
-
+----
 ## PBIX Availability
 The PBIX file for this dashboard exceeds GitHub’s file size limits. 
 A PDF export and screenshots are provided for review. 
